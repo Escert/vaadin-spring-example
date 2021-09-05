@@ -50,8 +50,10 @@
     "@vaadin/vaadin-time-picker": "20.0.3",
     "@vaadin/vaadin-upload": "20.0.3",
     "construct-style-sheets-polyfill": "2.4.16",
+    "line-awesome": "1.3.0",
     "lit-element": "2.5.1",
-    "lit-html": "1.4.1"
+    "lit-html": "1.4.1",
+    "lumo-css-framework": "^4.0.10"
   },
   "devDependencies": {
     "@types/validator": "13.1.0",
@@ -130,8 +132,10 @@
       "@vaadin/vaadin-time-picker": "20.0.3",
       "@vaadin/vaadin-upload": "20.0.3",
       "construct-style-sheets-polyfill": "2.4.16",
+      "line-awesome": "1.3.0",
       "lit-element": "2.5.1",
-      "lit-html": "1.4.1"
+      "lit-html": "1.4.1",
+      "lumo-css-framework": "^4.0.10"
     },
     "devDependencies": {
       "@types/validator": "13.1.0",
@@ -158,6 +162,6 @@
       "workbox-precaching": "6.2.0",
       "workbox-webpack-plugin": "6.2.0"
     },
-    "hash": "4d8d01435260015df378b4c89744c321120e2c3a03eb3bbb54193ded6324334f"
+    "hash": "1dc950f1854ea5c690e2449ec74a4064ca392a6da8460d8e3ba626432abe2906"
   }
 }
